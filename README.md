@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋 Hi, I'm Szymon Zimończyk
 
-<!--
-**JDBOYYYY/JDBOYYYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Location:** Rybnik, Poland
 
-Here are some ideas to get you started:
+## About Me
+I'm a QA engineer and computer engineering student, passionate about testing and development. I'm always on the lookout for new QA challenges, especially in Playwright
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Expertise
+- 🛠️ Manual and automated testing with Playwright + TypeScript & Java + Selenium
+- 📊 Agile/Scrum methodologies, Jira, Git
+- 🌐 CI/CD pipelines with Jenkins, GitLab, GitHub
+- 📝 Proficient in creating test plans & reports
+## Language Proficiency
+🗣️ Competent in English (B2 level), ensuring clear communication across global teams.
+
+## Personality Insight
+💡 As an ENTJ-A / ENTJ-T, I thrive on leadership and strategy, pushing for excellence in every project.
+
+## Current Focus
+🎓 Wrapping up my semester at university and diving into developing a complex test repository on **playwright-demoqa**. Stay tuned!
+
