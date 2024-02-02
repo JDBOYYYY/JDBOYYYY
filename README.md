@@ -16,6 +16,9 @@ I'm a QA engineer and computer engineering student, passionate about testing and
 ## Personality Insight
 💡 As an ENTJ-A / ENTJ-T, I thrive on leadership and strategy, pushing for excellence in every project.
 
+## Reach Me
+🔗 [LinkedIn](https://www.linkedin.com/in/szymon-zimo%C5%84czyk-a94716254/) - Feel free to connect with me on LinkedIn for professional inquiries or collaborations.
+
 ## Current Focus
 🎓 Wrapping up my semester at university and diving into developing a complex test repository on **playwright-demoqa**. Stay tuned!
 
